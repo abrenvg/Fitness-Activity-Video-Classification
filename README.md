@@ -1,4 +1,4 @@
-Task will be to use this workout dataset(https://www.kaggle.com/datasets/hasyimabdillah/workoutfitness-video/data). dataset train a model to classify the activity being performed in the videos. You should be able to classify between the following activities: barbell biceps curl, bench press, deadlift, plank, pull up, push up, shoulder press and squat. Complete the following steps: 
+Task will be to use this workout dataset(https://www.kaggle.com/datasets/hasyimabdillah/workoutfitness-video/data). dataset train a model to classify the activity being performed in the videos. You should be able to classify between the following activities: barbell biceps curl, bench press, deadlift, plank, pull up, push up, shoulder press and squat. Complete the following steps:
 
     1. Perform keypoint detection (aka pose estimation) and train a model using the keypoints as input. Explain the preprocessing steps, report, and discuss your results. Note: To identify the keypoints, use any pre-trained model, such as:
         Movenet.
