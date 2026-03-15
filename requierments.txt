@@ -1,0 +1,10 @@
+tensorflow==2.15.0
+tensorflow-models-official==2.15.0
+tf-keras==2.15.0
+tensorflow-hub
+numpy
+pandas
+opencv-python
+scikit-learn
+matplotlib
+tqdmw-hub

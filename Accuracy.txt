@@ -1,0 +1,3 @@
+Key-point Extraction + 1DCNN- Accuracy: 0.8703
+Feature Engineering + RandomForest- Accuracy: 0.849
+MoViNet- Accuracy: 0.30 
